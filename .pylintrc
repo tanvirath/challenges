@@ -1,0 +1,3 @@
+[TYPECHECK]
+ignored-classes=Fysom,MyClass
+disable=locally-disabled, invalid-name, E1101
