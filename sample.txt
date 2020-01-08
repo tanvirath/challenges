@@ -1,0 +1,23 @@
+W_A11,2000-02,Moving average,59.66666667,50.92582302,68.40751031,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2001-03,Moving average,60,51.23477459,68.76522541,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2002-04,Moving average,59,50.30812505,67.69187495,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2003-05,Moving average,59,50.30812505,67.69187495,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2004-06,Moving average,61.33333333,52.47125167,70.195415,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2005-07,Moving average,63,54.01831668,71.98168332,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2006-08,Moving average,57.33333333,48.76510444,65.90156223,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2007-09,Moving average,63.66666667,54.63758627,72.69574706,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2008-10,Moving average,64,54.94731413,73.05268587,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2009-11,Moving average,64.33333333,55.25710337,73.40956329,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2010-12,Moving average,55.33333333,46.91587684,63.75078983,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2011-13,Moving average,54.33333333,45.99228499,62.67438168,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2012-14,Moving average,51.33333333,43.22582886,59.4408378,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2013-15,Moving average,52,43.84001923,60.15998077,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A11,2014-16,Moving average,53,44.76193151,61.23806849,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+W_A12,2000-02,Moving average,1.543343121,1.317063238,1.769623003,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+W_A12,2001-03,Moving average,1.525510302,1.302605894,1.74841471,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+W_A12,2002-04,Moving average,1.464855873,1.249053431,1.680658315,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+W_A12,2003-05,Moving average,1.444340378,1.231538856,1.6571419,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+W_A12,2004-06,Moving average,1.488136846,1.273032627,1.703241065,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+W_A12,2005-07,Moving average,1.508692612,1.293405498,1.723979726,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+W_A12,2006-08,Moving average,1.356024624,1.153071925,1.558977323,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+W_A12,2007-09,Moving average,1.504094502,1.290341751,1.717847253,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
