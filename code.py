@@ -36,6 +36,12 @@ class Load(object):
 
         :returns: [59.66666667,50.92582302,68.40751031]
 
+        Usage:
+        ======
+            >> df = Load()
+            >> df.pick_numbers()
+            >> [1,2,3,4,5,6]
+
         """
         # complete code here
 
@@ -48,6 +54,14 @@ class Load(object):
             data = "W_A11,2000-02,Moving average,59.66666667,50.92582302,68.40751031,
                        Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal"
         :returns 179.0
+
+        Usage:
+        ======
+            >> df = Load()
+            >> df.sum_all_numbers()
+            >> 179.0
+
+
         """
         # complete code here
 
@@ -57,6 +71,12 @@ class Load(object):
         Return all vowels in the given string `self.data`
 
         :returns [] all vowels as list
+
+        Usage:
+        ======
+            >> df = Load()
+            >> df.extract_vowels()
+            >> ['A', 'E', 'I', 'O']
         """
 
 
@@ -66,6 +86,13 @@ class Load(object):
         list of all odd numbers from the string
 
         :returns: [1, 3, 5]
+
+        Usage:
+        ======
+            >> df = Load()
+            >> df.pick_odd_numbers()
+            >> [1, 3, 5]
+
         """
         # complete code here
 
@@ -76,6 +103,12 @@ class Load(object):
         the mean of extracted list of numbers.
 
         :returns: 50
+
+        Usage:
+        ======
+            >> df = Load()
+            >> df.get_mean()
+            >> 50
         """
         # complete code here
 
@@ -83,4 +116,4 @@ class Load(object):
 
 if __name__ == '__main__':
     # instantiate the object
-    df = Load('sample.txt')
+    df = Load()
