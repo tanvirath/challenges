@@ -36,7 +36,7 @@ challenges
 ## Problem Statement
 `init.py` contains all codes for this challenges. There is a class called `Load` inside the `init.py` with lots of incomplete methods leftover intentionally. Now you can select any one incomplete method and solve using the `Docstring` given on the method definition.  
 
- - Once the method is filled with write logic's 
+ - Once you write method which is incomplete.
  - Test the method with different edge cases using `pytest`
  - Run `pylint init.py` and make sure the code is `PEP8` standard with `10/10` score.
  - `Git commit with correct message`
