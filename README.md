@@ -4,6 +4,17 @@
 ## Sparx Contributors Challenges
 Sparx is a data preprocessing library which has been created to make feature engineering simplified. To be a part of the active contributor for sparx library, its mandatory to complete this challenge which helps you to understand the data wrangling and python optimization.
 
+
+## Dear AI Foundation Aspirants,
+
+We hope everyone have gone throught the resource material's provided during vacations. Now in-order to contribute and become a volunteer of CleverInsight OpenAI Foundation, we have a challenge which resembles like the one you are going to face in upcoming days. So you are request to follow the guidelines.
+
+- Challenge start at today and end by 12th Jan 2020 night at 11pm. 
+- Kindly follow the instructions.
+
+### How to contribute to this challenge. Kindly follow the video below.
+- https://www.youtube.com/watch?v=bCu_54mx2hI&t=17s
+
 ### Prerequisite
 
  - As `python version 2` has been retired this year, we recommend you to install Ananconda version 3.7 | [install](https://www.anaconda.com/distribution/).
@@ -42,3 +53,4 @@ challenges
  - `Git commit with correct message`
  - Now push the core into your repository using the command `git push origin master`.
  - Now send a `Pull Request (PR)` from your repo to the original source repo.
+
