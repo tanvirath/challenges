@@ -114,6 +114,25 @@ class Load(object):
 
 
 
+    def addition(self, x, y):
+        """
+        Take X and Y as input and now return the sum of both
+        
+        :param      x:    { parameter_description }
+        :type       x:    { type_description }
+        :param      y:    { parameter_description }
+        :type       y:    { type_description }
+
+        Usage:
+        ======
+            >> df = Load()
+            >> df.addition(10, 20)
+            >> 30
+        """
+        # complete code here
+
+
+
 if __name__ == '__main__':
     # instantiate the object
     df = Load()
