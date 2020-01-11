@@ -2,10 +2,10 @@
 Load module to filter data on fly
 """
 from __future__ import print_function
-import os
-import sys
+#import os
+#import sys
 import pandas as pd
-import numpy as np
+#import numpy as np
 
 
 class Load(object):
@@ -46,7 +46,7 @@ class Load(object):
             >> [1,2,3,4,5,6]
 
         """
-        # complete code here
+        print(self.data)
 
 
     def sum_all_numbers(self):
@@ -167,10 +167,12 @@ class Load(object):
             >> df.addition(10, 20)
             >> 30
         """
-        # complete code here
+        return x+y
 
 
 
 if __name__ == '__main__':
     # instantiate the object
     df = Load('data.csv')
+    print(df.addition(2, 3))
+    
